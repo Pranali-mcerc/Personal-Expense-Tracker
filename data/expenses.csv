@@ -1,1 +1,11 @@
-expense_id,date,category,description,amount,payment_methodEXP001,2026-11-19,Food,Lunch at restaurant,250.0,UPI
+﻿expense_id,date,category,description,amount,payment_method
+EXP001,2026-11-19,Food,Lunch at restaurant,250,UPI
+EXP002,2026-11-18,Transportation,Auto fare,100,Cash
+EXP003,2026-11-17,Shopping,Clothes,1200,Debit Card
+EXP004,2026-11-16,Education,Books,500,UPI
+EXP005,2026-11-15,Entertainment,Movie tickets,350,UPI
+EXP006,2026-11-14,Food,Dinner,450,Cash
+EXP007,2026-11-13,Healthcare,Medicines,300,UPI
+EXP008,2026-11-12,Bills,Electricity bill,800,Bank Transfer
+EXP009,2026-11-11,Travel,Bus ticket,250,Cash
+EXP010,2026-11-10,Shopping,Shoes,1500,Credit Card
